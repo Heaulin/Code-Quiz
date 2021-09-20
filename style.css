@@ -1,0 +1,48 @@
+.navbar {
+  background-color: #b584c9;
+  width: 100%;
+  border: solid black 2px;
+}
+
+
+
+.ms-auto {
+  padding-right: 2%;
+}
+
+.me-auto {
+  padding-left: 2%;
+}
+
+
+body {
+  background-color: #FFFFFF;
+}
+
+.card {
+  background-color: #d9b0ec;
+  height: 75%;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 5%;
+  padding: 5%;
+  margin-bottom: 5%;
+}
+
+/* Styling for all buttons */
+
+button, .btn {
+  border: black solid 2px;
+  background-color: #623dc8;
+  color: #FFFFFF;
+  font-size: larger;
+  padding: 10px 16px 10px 16px;
+  margin: 10px;
+}
+
+
+li {
+  padding: 3px;
+  color: black;
+  list-style-type: none;
+}
